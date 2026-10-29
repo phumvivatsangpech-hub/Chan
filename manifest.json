@@ -1,0 +1,19 @@
+{
+  "name": "เสื่อกกจันทบูร — หัตถกรรมเสื่อกกจังหวัดจันทบุรี",
+  "short_name": "เสื่อจันทบูร",
+  "description": "เรียนรู้ประวัติ ลวดลาย ขั้นตอนการผลิต และชุมชนผู้สืบสานเสื่อกกจันทบูร จังหวัดจันทบุรี",
+  "lang": "th",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3E9D2",
+  "theme_color": "#16223A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
